@@ -1,0 +1,156 @@
+/* TAG SELECTORS */
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #f95959;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #f95959;
+  font-weight: normal;
+}
+
+h3 {
+  color: #f95959;
+}
+
+a {
+  color: #6180a5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e3e3e3;
+}
+
+hr {
+  border-style: dotted hidden hidden hidden;
+  border-color: #f95959;
+  border-top-width: 5px;
+  width: 5%;
+  margin: 75px auto 75px auto;
+}
+
+/* CLASS SELECTORS */
+
+.btn {
+  background: #f95959;
+  background-image: -webkit-linear-gradient(top, #f95959, #b35252);
+  background-image: -moz-linear-gradient(top, #f95959, #b35252);
+  background-image: -ms-linear-gradient(top, #f95959, #b35252);
+  background-image: -o-linear-gradient(top, #f95959, #b35252);
+  background-image: linear-gradient(to bottom, #f95959, #b35252);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius:10px;
+  font-family: sans-serif;
+  color: #e3e3e3;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f7a6a6;
+  background-image: -webkit-linear-gradient(top, #f7a6a6, #de6d6d);
+  background-image: -moz-linear-gradient(top, #f7a6a6, #de6d6d);
+  background-image: -ms-linear-gradient(top, #f7a6a6, #de6d6d);
+  background-image: -o-linear-gradient(top, #f7a6a6, #de6d6d);
+  background-image: linear-gradient(to bottom, #f7a6a6, #de6d6d);
+  text-decoration: none;
+}
+
+.contact-me {
+  padding-bottom: 75px;
+  line-height: 2;
+}
+
+.copyright {
+  color: #e3e3e3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  font-size: 1.25rem;
+  margin: 0 15px 0 15px;
+}
+
+.topContainer {
+  background-color: #455d7a;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profilePhoto {
+  border-radius: 100%;
+  width: 200px;
+  margin-top: 25px;
+}
+
+.webImage {
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+
+.skillImage {
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.midContainer {
+  background-color: #e3e3e3;
+}
+
+.botContainer {
+  background-color: #233142;
+  padding: 50px;
+}
+
+.botContainerText {
+  color: #e3e3e3;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.profile {
+  width: 40%;
+  line-height: 2;
+  margin: 0 auto auto auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/* ID SELECTORS */
