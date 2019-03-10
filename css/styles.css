@@ -100,13 +100,13 @@ hr {
 }
 
 .webImage {
-  width: 25%;
+  width: 200px;
   float: left;
   margin-right: 25px;
 }
 
 .skillImage {
-  width: 25%;
+  width: 200px;
   float: right;
   margin-left: 25px;
 }
